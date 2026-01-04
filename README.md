@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Harsh Singh - Data Analyst Portfolio
 
 This is a Next.js portfolio website for Harsh Singh, a Data Analyst and aspiring Data Scientist. The website is designed to showcase his skills, projects, and experience to potential employers.
@@ -63,4 +63,4 @@ This project uses Genkit to integrate AI features. The resume optimizer is power
    This will allow you to inspect and debug the AI flows at `http://localhost:4000`.
 =======
 # harsh_portfolio
->>>>>>> 342006f12b0ebd2aecf414867c415e83200858e9
+https://harshportfoliofinal.vercel.app/
